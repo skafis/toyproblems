@@ -1,0 +1,12 @@
+
+public class threeSort {
+	int []= newsort (a,b,c);
+	math.max(a,b);
+	math.max(max,c)
+	math.min(a,b)
+	math.min(min,c);
+	mid=(a+b+c)-(min+max);
+	
+	
+	}
+}

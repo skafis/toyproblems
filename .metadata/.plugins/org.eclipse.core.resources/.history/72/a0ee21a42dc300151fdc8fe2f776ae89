@@ -1,0 +1,7 @@
+
+public class threeSort int num1, num2, num3 {
+	int maxfinal=math.max(math.max(num1,num3))
+	
+	
+	}
+}

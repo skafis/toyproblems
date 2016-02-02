@@ -1,0 +1,7 @@
+
+public class sort {
+	public static void main(String[] args){
+		third_largest largest = new third_largest();
+		System.out.println(largest.longstring)
+	}
+}
