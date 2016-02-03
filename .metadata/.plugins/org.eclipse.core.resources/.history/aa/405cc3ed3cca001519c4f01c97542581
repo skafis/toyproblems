@@ -1,0 +1,16 @@
+
+public class common {
+	public static void main(String [] args){
+		int[] data = {};
+		int data2 [] = new [y];
+		
+		for (int n=0; n<data.length;n++){
+			for (int y=0; y<data2.length; y++){
+				if (data[n]==data2[y]){
+					System.out.println(data[n])
+				}
+			}
+		}
+	}
+
+}

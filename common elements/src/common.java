@@ -1,0 +1,15 @@
+
+public class common {
+	public static void main(String [] args){
+		int[] data = {10,7,5,9,4,15,36};
+		int [] data2 = {5,9,26,7,11,22};
+		for (int n=0; n<data.length;n++){
+			for (int y=0; y<data2.length; y++){
+				if (data[n]==data2[y]){
+					System.out.println(data[n]);
+				}
+			}
+		}
+	}
+
+}
