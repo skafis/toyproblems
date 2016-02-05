@@ -1,0 +1,8 @@
+
+public class ReverseString {
+	public static void main (String [] args){
+		String initial reverse = "";
+		Scanner input = new Scanner(System.in);
+	}
+
+}

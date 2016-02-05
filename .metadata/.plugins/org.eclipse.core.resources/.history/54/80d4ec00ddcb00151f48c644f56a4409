@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+// Write a java algorithm to reverse a string, and print it's output
+// For instance, "CodeNinja" returns: 'ajniNedoC'
+
+}
+public class string {
+	private static int lenth;
+
+	public static void main(String[] args){
+		String initial Object reverse = " ";
+		Scanner input = new Scanner(System.in);
+		System.out.println("enter string");
+		
+		initial = input.nextLine();
+		int length = initial.length();
+		
+		for (int i=lenth-1; i>=0; i++)
+			reverse = reverse + initial;
+			
+		System.out.println("reverse string");
+	}
+}

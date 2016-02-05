@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="16" version="2.0">
 <workbenchAdvisor/>
-<window height="644" width="1024" x="135" y="126">
+<window height="644" width="1024" x="-83" y="109">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -31,23 +31,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VowelCount.java" partName="VowelCount.java" path="/home/gwada/workspace/VowelCount/src/VowelCount.java" title="VowelCount.java" tooltip="VowelCount/src/VowelCount.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/VowelCount/src/VowelCount.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="862" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="threeSort.java" partName="threeSort.java" path="/home/gwada/workspace/asscending/src/threeSort.java" title="threeSort.java" tooltip="asscending/src/threeSort.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/asscending/src/threeSort.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="monthvalue.java" partName="monthvalue.java" path="/home/gwada/workspace/month/src/monthvalue.java" title="monthvalue.java" tooltip="month/src/monthvalue.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/month/src/monthvalue.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="185" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseString.java" partName="ReverseString.java" path="/home/gwada/workspace/reverse string/src/ReverseString.java" title="ReverseString.java" tooltip="reverse string/src/ReverseString.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reverse string/src/ReverseString.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="555" selectionTopPixel="11"/>
 </editor>
 </editors>
 <views>
@@ -57,7 +47,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors (12 items)"/>
+<category IMemento.internal.id="Warnings"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="135" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
@@ -116,7 +106,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -151,44 +141,31 @@
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="topLeft">
-<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.6590164" ratioLeft="402" ratioRight="208" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<info folder="true" part="bottomRight" ratio="0.6590164" ratioLeft="402" ratioRight="208" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="305" ratioRight="305" relationship="4" relative="topLeft">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="305" ratioRight="305" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -308,8 +285,6 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/third_largest/third_largest.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=sort/&lt;(sort.class"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sort/sort.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sort/third_largest.java"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/third_largest/third_largest.java"/>
@@ -320,156 +295,162 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/VowelCount/src/VowelCount.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/asscending/src/threeSort.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/month/src/monthvalue.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/reverse.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/reverse_string/ReverseString.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/string.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/VowelCount/src/VowelCount.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/asscending/src/threeSort.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/ReverseString.java"/>
 </editors>
-<item historyLabel="third_largest.java" index="0">
-<position info="not_deleted" x="1054" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="935" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="0">
-<position info="not_deleted" x="1054" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="0">
-<position info="not_deleted" x="946" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="0">
-<position info="not_deleted" x="986" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="808" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="146" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="808" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="144" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="808" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="1051" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="138" y="6"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="1034" y="10"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="133" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="778" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="778" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="778" y="0"/>
-</item>
-<item historyLabel="sort.class" index="1">
-<position info="not_deleted" x="21" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="146" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
+<item historyLabel="third_largest.java" index="1">
 <position info="not_deleted" x="886" y="10"/>
 </item>
-<item historyLabel="sort.java" index="2">
+<item historyLabel="sort.java" index="0">
 <position info="not_deleted" x="138" y="6"/>
 </item>
-<item historyLabel="third_largest.java" index="3">
-<position info="not_deleted" x="886" y="10"/>
-</item>
-<item historyLabel="sort.java" index="2">
-<position info="not_deleted" x="138" y="6"/>
-</item>
-<item historyLabel="third_largest.java" index="3">
+<item historyLabel="third_largest.java" index="1">
 <position info="not_deleted" x="799" y="6"/>
 </item>
-<item historyLabel="sort.java" index="2">
+<item historyLabel="sort.java" index="0">
 <position info="not_deleted" x="138" y="6"/>
 </item>
-<item historyLabel="third_largest.java" index="4">
+<item historyLabel="third_largest.java" index="2">
 <position info="not_deleted" x="1030" y="0"/>
 </item>
-<item historyLabel="third_largest.java" index="5">
+<item historyLabel="third_largest.java" index="3">
 <position info="not_deleted" x="799" y="6"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="814" y="0"/>
 </item>
-<item historyLabel="sort.java" index="2">
+<item historyLabel="sort.java" index="0">
 <position info="not_deleted" x="152" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="814" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="814" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="61" y="0"/>
 </item>
-<item historyLabel="third_largest.java" index="5">
+<item historyLabel="third_largest.java" index="3">
 <position info="not_deleted" x="799" y="6"/>
 </item>
-<item historyLabel="sort.java" index="2">
+<item historyLabel="sort.java" index="0">
 <position info="not_deleted" x="152" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="61" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="811" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="6">
+<item historyLabel="monthvalue.java" index="4">
 <position info="not_deleted" x="84" y="0"/>
 </item>
-<item historyLabel="third_largest.java" index="7">
+<item historyLabel="third_largest.java" index="5">
 <position info="not_deleted" x="1030" y="0"/>
 </item>
-<item historyLabel="sort.java" index="8">
+<item historyLabel="sort.java" index="6">
 <position info="not_deleted" x="152" y="0"/>
 </item>
-<item historyLabel="VowelCount.java" index="9">
+<item historyLabel="VowelCount.java" index="7">
 <position info="not_deleted" x="987" y="0"/>
 </item>
-<item historyLabel="VowelCount.java" index="9">
+<item historyLabel="VowelCount.java" index="7">
 <position info="not_deleted" x="862" y="0"/>
 </item>
-<item historyLabel="threeSort.java" index="10">
+<item historyLabel="threeSort.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="VowelCount.java" index="9">
+<item historyLabel="VowelCount.java" index="7">
 <position info="not_deleted" x="862" y="0"/>
 </item>
-<item active="true" historyLabel="monthvalue.java" index="11">
-<position info="not_deleted" x="183" y="0"/>
+<item historyLabel="monthvalue.java" index="9">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="reverse.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="monthvalue.java" index="9">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="497" y="0"/>
+</item>
+<item historyLabel="monthvalue.java" index="9">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="497" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="497" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="494" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="0" y="499"/>
+</item>
+<item historyLabel="string.java" index="12">
+<position info="not_deleted" x="148" y="0"/>
+</item>
+<item historyLabel="string.java" index="12">
+<position info="not_deleted" x="452" y="0"/>
+</item>
+<item historyLabel="string.java" index="12">
+<position info="not_deleted" x="418" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="11">
+<position info="not_deleted" x="455" y="0"/>
+</item>
+<item historyLabel="monthvalue.java" index="9">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="VowelCount.java" index="13">
+<position info="not_deleted" x="862" y="0"/>
+</item>
+<item historyLabel="threeSort.java" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VowelCount.java" index="13">
+<position info="not_deleted" x="862" y="0"/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item historyLabel="ReverseString.java" index="15">
+<position/>
+</item>
+<item active="true" historyLabel="ReverseString.java" index="15">
+<position/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -488,6 +469,15 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseString.java" tooltip="reverse string/src/ReverseString.java">
+<persistable path="/reverse string/src/ReverseString.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="string.java" tooltip="reverse string/src/string.java">
+<persistable path="/reverse string/src/string.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseString.java" tooltip="/home/frank/html/ms-cohort5-dsa/reverse_string/ReverseString.java">
+<persistable uri="file:/home/frank/html/ms-cohort5-dsa/reverse_string/ReverseString.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="monthvalue.java" tooltip="month/src/monthvalue.java">
 <persistable path="/month/src/monthvalue.java"/>
 </file>
