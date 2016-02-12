@@ -1,0 +1,14 @@
+import java.util.Arrays;{
+
+
+public class nextHighest {
+	
+	public static void main(String[] args){
+		int num = 1508;
+		char [] x = String.valueOf(num).toCharArray();
+		Arrays.sort(x);
+		for (int i=x.length; i>=0; i--){
+			System.out.print(x[i]);
+		}
+	}
+}

@@ -1,0 +1,9 @@
+
+public class combinestring {
+	public static void main(String[] arg){
+		string str1="abc";
+		String str2="def";
+		str = str1+str2;
+	}
+
+}

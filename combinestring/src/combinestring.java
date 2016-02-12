@@ -1,0 +1,10 @@
+
+public class combinestring {
+	public static void main(String[] arg){
+		String str1="abc";
+		String str2="def";
+		String str = str1+str2;
+		System.out.println(str);
+	}
+
+}
