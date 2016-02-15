@@ -1,0 +1,13 @@
+import java.util.HashMap;
+
+public class removeDuplicates {
+	public static void main (String[] args){
+		String str = "tree traversals";
+		HashMap <Integer, Character>charStore = new HashMap<Integer, Character>(); //creating a hash map to store the char
+		char [] charArray= full.toCharArray();
+	}
+
+	public strings{
+		HashMap hm = 
+	}
+}

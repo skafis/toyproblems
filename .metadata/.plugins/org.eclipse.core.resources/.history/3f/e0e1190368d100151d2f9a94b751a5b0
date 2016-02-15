@@ -1,0 +1,12 @@
+import java.util.HashMap;
+
+public class removeDuplicates {
+	public static void main (String[] args){
+		String str = "tree traversals";
+		HashMap <Integer, Character>charStore = new HashMap<Integer, Character>()
+	}
+
+	public strings{
+		HashMap hm = 
+	}
+}

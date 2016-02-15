@@ -1,7 +1,0 @@
-
-public class monthvalue {
-	public static void main (String[] args){
-		int month;
-		switch (month);
-	}
-}
