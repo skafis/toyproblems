@@ -1,0 +1,16 @@
+
+public class LargestContinousSum {
+	public static void main (String[] args){
+	int[] hold = new int [];
+	int sum;
+	hold = [4,8];
+	for (int i=0; hold.length; i++){
+		if (hold[i] > 0){
+			sum = sum + hold[i];
+		}
+		else
+			sum2 = sum2+hold[i]
+	}
+		
+	}
+}

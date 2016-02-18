@@ -1,0 +1,15 @@
+// By definition, the first two numbers in the Fibonacci sequence are 0 and 1
+//and each subsequent number is the sum of the previous two.
+// For example, the first ten Fibonacci numbers are:
+// 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+//What to do:
+// Write a Java function that accepts a number and returns the number at that position 
+//in the fibonnaci sequence.
+//in your solution, print out the first 15 numbers of the Fibonacci sequence.
+public class fibonacci {
+	public static void main (String[] args){
+		int num =0, num2=1;
+		
+	}
+}

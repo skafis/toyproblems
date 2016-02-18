@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="15" version="2.0">
+<workbench progressCount="16" version="2.0">
 <workbenchAdvisor/>
-<window height="666" width="1024" x="162" y="133">
+<window height="547" maximized="true" width="1370" x="142" y="189">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -32,6 +32,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
 </presentation>
 </folder>
 </info>
@@ -40,9 +43,21 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reverse string/src/ReverseString.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="555" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="removeDuplicates.java" partName="removeDuplicates.java" path="/home/gwada/workspace/remove_duplicates/src/removeDuplicates.java" title="removeDuplicates.java" tooltip="remove_duplicates/src/removeDuplicates.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="removeDuplicates.java" partName="removeDuplicates.java" path="/home/gwada/workspace/remove_duplicates/src/removeDuplicates.java" title="removeDuplicates.java" tooltip="remove_duplicates/src/removeDuplicates.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/remove_duplicates/src/removeDuplicates.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="494" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="fibonacci.java" partName="fibonacci.java" path="/home/gwada/workspace/fibonacci/src/fibonacci.java" title="fibonacci.java" tooltip="fibonacci/src/fibonacci.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fibonacci/src/fibonacci.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="783" selectionTopPixel="142"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="fibonacci.java" partName="fibonacci.java" title="fibonacci.java" tooltip="/home/frank/html/ms-cohort5-dsa/Fibonacci/fibonacci.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/frank/html/ms-cohort5-dsa/Fibonacci/fibonacci.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="455" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargestContinousSum.java" partName="LargestContinousSum.java" path="/home/gwada/workspace/largest_continous_sum/src/LargestContinousSum.java" title="LargestContinousSum.java" tooltip="largest_continous_sum/src/LargestContinousSum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/largest_continous_sum/src/LargestContinousSum.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="125" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -110,7 +125,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -255,7 +270,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.74951077" ratioLeft="383" ratioRight="128" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.6107056" ratioLeft="251" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -289,172 +304,166 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sort/sort.java"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/third_largest/third_largest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sort/third_largest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/month/src/monthvalue.java"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/third_largest/third_largest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sort/sort.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/VowelCount/src/VowelCount.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/asscending/src/threeSort.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/month/src/monthvalue.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/reverse.java"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/reverse_string/ReverseString.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/string.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/VowelCount/src/VowelCount.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/asscending/src/threeSort.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reverse string/src/ReverseString.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/remove_duplicates/src/removeDuplicates.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fibonacci/src/fibonacci.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/frank/html/ms-cohort5-dsa/Fibonacci/fibonacci.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/largest_continous_sum/src/LargestContinousSum.java"/>
 </editors>
-<item historyLabel="third_largest.java" index="1">
-<position info="not_deleted" x="1030" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="2">
-<position info="not_deleted" x="799" y="6"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="sort.java" index="0">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="814" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="61" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="2">
-<position info="not_deleted" x="799" y="6"/>
-</item>
-<item historyLabel="sort.java" index="0">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="61" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="811" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="3">
-<position info="not_deleted" x="84" y="0"/>
-</item>
-<item historyLabel="third_largest.java" index="4">
-<position info="not_deleted" x="1030" y="0"/>
-</item>
-<item historyLabel="sort.java" index="5">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="VowelCount.java" index="6">
-<position info="not_deleted" x="987" y="0"/>
-</item>
-<item historyLabel="VowelCount.java" index="6">
-<position info="not_deleted" x="862" y="0"/>
-</item>
-<item historyLabel="threeSort.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="VowelCount.java" index="6">
-<position info="not_deleted" x="862" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="8">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="reverse.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="8">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="497" y="0"/>
-</item>
-<item historyLabel="monthvalue.java" index="8">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="497" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="199" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="497" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="494" y="0"/>
-</item>
-<item historyLabel="ReverseString.java" index="10">
-<position info="not_deleted" x="0" y="499"/>
-</item>
-<item historyLabel="string.java" index="11">
-<position info="not_deleted" x="148" y="0"/>
-</item>
-<item historyLabel="string.java" index="11">
+<item historyLabel="string.java" index="2">
 <position info="not_deleted" x="452" y="0"/>
 </item>
-<item historyLabel="string.java" index="11">
+<item historyLabel="string.java" index="2">
 <position info="not_deleted" x="418" y="0"/>
 </item>
-<item historyLabel="ReverseString.java" index="10">
+<item historyLabel="ReverseString.java" index="1">
 <position info="not_deleted" x="455" y="0"/>
 </item>
-<item historyLabel="monthvalue.java" index="8">
+<item historyLabel="monthvalue.java" index="0">
 <position info="not_deleted" x="185" y="0"/>
 </item>
-<item historyLabel="VowelCount.java" index="12">
+<item historyLabel="VowelCount.java" index="3">
 <position info="not_deleted" x="862" y="0"/>
 </item>
-<item historyLabel="threeSort.java" index="13">
+<item historyLabel="threeSort.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="VowelCount.java" index="12">
+<item historyLabel="VowelCount.java" index="3">
 <position info="not_deleted" x="862" y="0"/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="ReverseString.java" index="14">
+<item historyLabel="ReverseString.java" index="5">
 <position/>
 </item>
-<item historyLabel="removeDuplicates.java" index="15">
+<item historyLabel="removeDuplicates.java" index="6">
 <position info="not_deleted" x="26" y="0"/>
 </item>
-<item historyLabel="removeDuplicates.java" index="15">
+<item historyLabel="removeDuplicates.java" index="6">
 <position info="not_deleted" x="491" y="0"/>
 </item>
-<item historyLabel="removeDuplicates.java" index="15">
+<item historyLabel="removeDuplicates.java" index="6">
 <position info="not_deleted" x="360" y="0"/>
 </item>
-<item active="true" historyLabel="removeDuplicates.java" index="15">
+<item historyLabel="removeDuplicates.java" index="6">
 <position info="not_deleted" x="487" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="816" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="610" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="646" y="25"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="711" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="823" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="827" y="1"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="826" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="706" y="2"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="653" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="7">
+<position info="not_deleted" x="783" y="0"/>
+</item>
+<item historyLabel="fibonacci.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="75" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="349" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="268" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="226" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="265" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="128" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="100" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="226" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="346" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="314" y="0"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="288" y="24"/>
+</item>
+<item historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="313" y="1"/>
+</item>
+<item active="true" historyLabel="LargestContinousSum.java" index="9">
+<position info="not_deleted" x="288" y="24"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -473,6 +482,15 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargestContinousSum.java" tooltip="largest_continous_sum/src/LargestContinousSum.java">
+<persistable path="/largest_continous_sum/src/LargestContinousSum.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="fibonacci.java" tooltip="/home/frank/html/ms-cohort5-dsa/Fibonacci/fibonacci.java">
+<persistable uri="file:/home/frank/html/ms-cohort5-dsa/Fibonacci/fibonacci.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="fibonacci.java" tooltip="fibonacci/src/fibonacci.java">
+<persistable path="/fibonacci/src/fibonacci.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="removeDuplicates.java" tooltip="remove_duplicates/src/removeDuplicates.java">
 <persistable path="/remove_duplicates/src/removeDuplicates.java"/>
 </file>
